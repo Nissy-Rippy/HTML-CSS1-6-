@@ -1,1 +1,33 @@
-1-6.css
+*{ 
+padding:0;
+margin:0;
+box-sizing:border-box;
+}
+.main{
+  height:200px;
+  background-image: url(img1/img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+  
+}
+.main-center1{
+  height:200px;
+  background-image: url(img1/img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+
+}
+.main-center2{
+    height:200px;
+  background-image: url(img1/img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+
+}
+.main-center3{
+    height:200px;
+    background-image: url(img1/img/box4.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
